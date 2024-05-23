@@ -1,0 +1,4 @@
+train: C:\Users\orell\OneDrive\Desktop\ProyectoFrutasIA\pythonProject\Datos\train\
+val: C:\Users\orell\OneDrive\Desktop\ProyectoFrutasIA\pythonProject\Datos\val\
+nc: 1
+names: ["Manzana"]

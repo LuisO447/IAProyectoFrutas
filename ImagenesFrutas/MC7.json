@@ -1,0 +1,166 @@
+{
+  "version": "5.4.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Melocoton,     Nombre científico: Prunus persica.\n\nPropiedades:\n\nRica en vitamina C, que fortalece el sistema inmunológico y promueve la salud de la piel.\nContiene vitamina A, en forma de betacaroteno, que es importante para la visión y la salud de la piel.\nFuente de fibra dietética, que mejora la digestión y ayuda a regular el azúcar en la sangre.\nBaja en calorías, aproximadamente 39 calorías por cada 100 gramos.\nAporta potasio, esencial para la función muscular y nerviosa.\nContiene antioxidantes como los polifenoles y flavonoides, que ayudan a combatir el daño celular.\nFuente de vitaminas del complejo B, como niacina (B3) y ácido fólico (B9), importantes para el metabolismo y la formación de células.\nContiene pequeñas cantidades de magnesio y fósforo, importantes para la salud ósea y el metabolismo energético.",
+      "points": [
+        [
+          266.99999999999994,
+          164.1578947368421
+        ],
+        [
+          290.1578947368421,
+          133.6315789473684
+        ],
+        [
+          319.6315789473684,
+          110.47368421052632
+        ],
+        [
+          354.8947368421052,
+          101.0
+        ],
+        [
+          402.2631578947368,
+          108.36842105263159
+        ],
+        [
+          435.4210526315789,
+          128.3684210526316
+        ],
+        [
+          458.578947368421,
+          160.47368421052633
+        ],
+        [
+          465.94736842105254,
+          195.21052631578948
+        ],
+        [
+          458.578947368421,
+          242.05263157894737
+        ],
+        [
+          442.2631578947368,
+          263.10526315789474
+        ],
+        [
+          420.6842105263157,
+          286.7894736842105
+        ],
+        [
+          383.84210526315786,
+          306.7894736842105
+        ],
+        [
+          342.2631578947368,
+          305.2105263157895
+        ],
+        [
+          298.05263157894734,
+          285.7368421052631
+        ],
+        [
+          273.31578947368416,
+          252.05263157894737
+        ],
+        [
+          264.89473684210526,
+          219.94736842105263
+        ],
+        [
+          263.31578947368416,
+          188.89473684210526
+        ]
+      ],
+      "group_id": null,
+      "description": "Melocoton,     Nombre científico: Prunus persica.\n\nPropiedades:\n\nRica en vitamina C, que fortalece el sistema inmunológico y promueve la salud de la piel.\nContiene vitamina A, en forma de betacaroteno, que es importante para la visión y la salud de la piel.\nFuente de fibra dietética, que mejora la digestión y ayuda a regular el azúcar en la sangre.\nBaja en calorías, aproximadamente 39 calorías por cada 100 gramos.\nAporta potasio, esencial para la función muscular y nerviosa.\nContiene antioxidantes como los polifenoles y flavonoides, que ayudan a combatir el daño celular.\nFuente de vitaminas del complejo B, como niacina (B3) y ácido fólico (B9), importantes para el metabolismo y la formación de células.\nContiene pequeñas cantidades de magnesio y fósforo, importantes para la salud ósea y el metabolismo energético.",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Melocoton,     Nombre científico: Prunus persica.\n\nPropiedades:\n\nRica en vitamina C, que fortalece el sistema inmunológico y promueve la salud de la piel.\nContiene vitamina A, en forma de betacaroteno, que es importante para la visión y la salud de la piel.\nFuente de fibra dietética, que mejora la digestión y ayuda a regular el azúcar en la sangre.\nBaja en calorías, aproximadamente 39 calorías por cada 100 gramos.\nAporta potasio, esencial para la función muscular y nerviosa.\nContiene antioxidantes como los polifenoles y flavonoides, que ayudan a combatir el daño celular.\nFuente de vitaminas del complejo B, como niacina (B3) y ácido fólico (B9), importantes para el metabolismo y la formación de células.\nContiene pequeñas cantidades de magnesio y fósforo, importantes para la salud ósea y el metabolismo energético.",
+      "points": [
+        [
+          45.94736842105264,
+          73.10526315789474
+        ],
+        [
+          69.63157894736844,
+          61.5263157894737
+        ],
+        [
+          91.21052631578948,
+          56.26315789473686
+        ],
+        [
+          124.36842105263159,
+          53.105263157894754
+        ],
+        [
+          152.26315789473685,
+          57.31578947368423
+        ],
+        [
+          187.5263157894737,
+          86.78947368421053
+        ],
+        [
+          204.3684210526316,
+          129.94736842105263
+        ],
+        [
+          205.42105263157896,
+          161.52631578947367
+        ],
+        [
+          192.78947368421052,
+          194.68421052631578
+        ],
+        [
+          171.21052631578948,
+          220.4736842105263
+        ],
+        [
+          132.26315789473685,
+          235.73684210526315
+        ],
+        [
+          96.47368421052633,
+          237.8421052631579
+        ],
+        [
+          61.21052631578947,
+          216.26315789473685
+        ],
+        [
+          30.157894736842117,
+          182.57894736842104
+        ],
+        [
+          17.526315789473692,
+          144.68421052631578
+        ],
+        [
+          21.210526315789487,
+          109.42105263157895
+        ],
+        [
+          33.31578947368421,
+          89.94736842105264
+        ]
+      ],
+      "group_id": null,
+      "description": "Melocoton,     Nombre científico: Prunus persica.\n\nPropiedades:\n\nRica en vitamina C, que fortalece el sistema inmunológico y promueve la salud de la piel.\nContiene vitamina A, en forma de betacaroteno, que es importante para la visión y la salud de la piel.\nFuente de fibra dietética, que mejora la digestión y ayuda a regular el azúcar en la sangre.\nBaja en calorías, aproximadamente 39 calorías por cada 100 gramos.\nAporta potasio, esencial para la función muscular y nerviosa.\nContiene antioxidantes como los polifenoles y flavonoides, que ayudan a combatir el daño celular.\nFuente de vitaminas del complejo B, como niacina (B3) y ácido fólico (B9), importantes para el metabolismo y la formación de células.\nContiene pequeñas cantidades de magnesio y fósforo, importantes para la salud ósea y el metabolismo energético.",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "MC7.jpeg",
+  "imageData": "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",
+  "imageHeight": 342,
+  "imageWidth": 474
+}

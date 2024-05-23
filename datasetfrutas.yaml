@@ -1,0 +1,92 @@
+train: C:\Users\orell\OneDrive\Desktop\ProyectoFrutasIA\pythonProject\DatosFrutas\train\
+val: C:\Users\orell\OneDrive\Desktop\ProyectoFrutasIA\pythonProject\DatosFrutas\val\
+nc: 8
+names: ["Banano,     Nombre científico: Musa spp.
+
+Propiedades:
+
+Rica en potasio, esencial para la función muscular y nerviosa, y para mantener el equilibrio de líquidos en el cuerpo.
+Contiene vitamina B6, que ayuda en la producción de neurotransmisores y en la metabolización de proteínas.
+Fuente de vitamina C, que fortalece el sistema inmunológico y promueve la salud de la piel.
+Alta en carbohidratos, principalmente en forma de azúcares naturales como glucosa, fructosa y sacarosa, proporcionando energía rápida.
+Aproximadamente 89 calorías por cada 100 gramos.
+Contiene fibra dietética, que ayuda a la digestión y puede contribuir a la salud cardiovascular.
+Aporta pequeñas cantidades de otros minerales como magnesio y manganeso.
+Contiene antioxidantes como la dopamina y la catequina, que pueden ayudar a combatir el daño celular.", "Fresa,     Nombre científico: Fragaria × ananassa.
+
+Propiedades:
+
+Alta en vitamina C, potente antioxidante que fortalece el sistema inmunológico y promueve la salud de la piel.
+Contiene manganeso, importante para el metabolismo y la formación de huesos.
+Baja en calorías, aproximadamente 32 calorías por cada 100 gramos.
+Rica en fibra dietética, que mejora la digestión y ayuda a regular el azúcar en la sangre.
+Fuente de antioxidantes como antocianinas, elagitaninos y quercetina, que ayudan a combatir el daño celular y pueden tener propiedades antiinflamatorias.
+Contiene folato (vitamina B9), esencial para la formación de células y el buen funcionamiento del cerebro.
+Aporta pequeñas cantidades de vitamina K, que es importante para la coagulación de la sangre y la salud ósea.
+Contiene varios minerales como potasio, que ayuda a mantener la función muscular y nerviosa.", "Kiwi,     Nombre científico: Actinidia deliciosa.
+
+Propiedades:
+
+Muy rico en vitamina C, que fortalece el sistema inmunológico y promueve la salud de la piel.
+Contiene vitamina K, esencial para la coagulación de la sangre y la salud ósea.
+Fuente de vitamina E, un antioxidante que ayuda a proteger las células del daño.
+Alto contenido en fibra dietética, beneficiosa para la digestión y la regulación del azúcar en la sangre.
+Aproximadamente 61 calorías por cada 100 gramos.
+Contiene potasio, importante para la función muscular y nerviosa.
+Aporta folato (vitamina B9), esencial para la formación de células y el buen funcionamiento del cerebro.
+Rico en antioxidantes como la luteína y la zeaxantina, que pueden contribuir a la salud ocular.
+Contiene actinidina, una enzima que ayuda en la digestión de proteínas.", "Limon,     Nombre científico: Citrus limon.
+
+Propiedades:
+
+Alta en vitamina C, potente antioxidante que fortalece el sistema inmunológico y favorece la salud de la piel.
+Contiene ácido cítrico, que puede ayudar a prevenir la formación de cálculos renales y mejorar la digestión.
+Bajo contenido calórico, alrededor de 29 calorías por cada 100 gramos.
+Rico en fibra dietética, beneficiosa para la salud digestiva y la regulación del azúcar en la sangre.
+Fuente de minerales como potasio y magnesio, importantes para la función muscular y nerviosa.
+Aporta pequeñas cantidades de vitaminas del complejo B, como ácido fólico y vitamina B6.
+Sus compuestos flavonoides pueden tener propiedades anticancerígenas y antiinflamatorias.
+Contiene ácido ascórbico, que puede ayudar a conservar la frescura de otras frutas y vegetales.", "Manzana,     Nombre científico: Malus domestica.
+
+Propiedades:
+
+Rica en vitamina C, que fortalece el sistema inmunológico y favorece la absorción de hierro.
+Contiene fibra dietética, beneficiosa para la salud digestiva y la regulación del azúcar en la sangre.
+Baja en calorías, aproximadamente 52 por cada 100 gramos.
+Fuente de antioxidantes, como flavonoides y polifenoles, que ayudan a combatir el daño celular.
+Contiene carbohidratos, principalmente en forma de azúcares naturales como la glucosa, fructosa y sacarosa.
+Variedad de minerales como potasio, calcio y magnesio, importantes para la función muscular y nerviosa.", "Melocoton,     Nombre científico: Prunus persica.
+
+Propiedades:
+
+Rica en vitamina C, que fortalece el sistema inmunológico y promueve la salud de la piel.
+Contiene vitamina A, en forma de betacaroteno, que es importante para la visión y la salud de la piel.
+Fuente de fibra dietética, que mejora la digestión y ayuda a regular el azúcar en la sangre.
+Baja en calorías, aproximadamente 39 calorías por cada 100 gramos.
+Aporta potasio, esencial para la función muscular y nerviosa.
+Contiene antioxidantes como los polifenoles y flavonoides, que ayudan a combatir el daño celular.
+Fuente de vitaminas del complejo B, como niacina (B3) y ácido fólico (B9), importantes para el metabolismo y la formación de células.
+Contiene pequeñas cantidades de magnesio y fósforo, importantes para la salud ósea y el metabolismo energético.", "Naranja,     Nombre científico: Citrus × sinensis.
+
+Propiedades:
+
+Muy rica en vitamina C, que fortalece el sistema inmunológico y promueve la salud de la piel.
+Contiene fibra dietética, que mejora la digestión y ayuda a regular el azúcar en la sangre.
+Baja en calorías, aproximadamente 47 calorías por cada 100 gramos.
+Fuente de antioxidantes como flavonoides y carotenoides, que ayudan a combatir el daño celular y pueden tener propiedades antiinflamatorias.
+Aporta potasio, esencial para la función muscular y nerviosa.
+Contiene pequeñas cantidades de vitaminas del complejo B, como tiamina (B1), folato (B9) y vitamina B6, importantes para el metabolismo y la formación de células.
+Fuente de calcio y magnesio, importantes para la salud ósea y el metabolismo energético.
+Contiene ácido cítrico, que puede ayudar a prevenir la formación de cálculos renales y mejorar la digestión.", "Papaya,     Nombre científico: Carica papaya.
+
+Propiedades:
+
+Muy rica en vitamina C, que fortalece el sistema inmunológico y promueve la salud de la piel.
+Contiene vitamina A, en forma de betacaroteno, importante para la visión y la salud de la piel.
+Fuente de ácido fólico (vitamina B9), esencial para la formación de células y el buen funcionamiento del cerebro.
+Baja en calorías, aproximadamente 43 calorías por cada 100 gramos.
+Contiene potasio, esencial para la función muscular y nerviosa.
+Alta en fibra dietética, que mejora la digestión y ayuda a regular el azúcar en la sangre.
+Contiene antioxidantes como el licopeno, que ayuda a combatir el daño celular y puede tener propiedades antiinflamatorias.
+Aporta pequeñas cantidades de calcio, magnesio y vitaminas del complejo B.
+Contiene papaína, una enzima que ayuda en la digestión de proteínas."]

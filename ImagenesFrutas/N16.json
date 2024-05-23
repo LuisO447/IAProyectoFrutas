@@ -1,0 +1,88 @@
+{
+  "version": "5.4.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Naranja,     Nombre científico: Citrus × sinensis.\n\nPropiedades:\n\nMuy rica en vitamina C, que fortalece el sistema inmunológico y promueve la salud de la piel.\nContiene fibra dietética, que mejora la digestión y ayuda a regular el azúcar en la sangre.\nBaja en calorías, aproximadamente 47 calorías por cada 100 gramos.\nFuente de antioxidantes como flavonoides y carotenoides, que ayudan a combatir el daño celular y pueden tener propiedades antiinflamatorias.\nAporta potasio, esencial para la función muscular y nerviosa.\nContiene pequeñas cantidades de vitaminas del complejo B, como tiamina (B1), folato (B9) y vitamina B6, importantes para el metabolismo y la formación de células.\nFuente de calcio y magnesio, importantes para la salud ósea y el metabolismo energético.\nContiene ácido cítrico, que puede ayudar a prevenir la formación de cálculos renales y mejorar la digestión.",
+      "points": [
+        [
+          87.42331288343557,
+          38.34355828220858
+        ],
+        [
+          106.13496932515336,
+          40.79754601226993
+        ],
+        [
+          128.5276073619632,
+          44.47852760736196
+        ],
+        [
+          145.39877300613495,
+          57.97546012269938
+        ],
+        [
+          160.1226993865031,
+          78.52760736196319
+        ],
+        [
+          164.41717791411043,
+          102.76073619631902
+        ],
+        [
+          158.58895705521473,
+          128.5276073619632
+        ],
+        [
+          142.3312883435583,
+          146.9325153374233
+        ],
+        [
+          127.30061349693251,
+          160.7361963190184
+        ],
+        [
+          102.14723926380368,
+          165.95092024539875
+        ],
+        [
+          75.15337423312884,
+          162.26993865030673
+        ],
+        [
+          53.68098159509202,
+          151.840490797546
+        ],
+        [
+          36.50306748466258,
+          132.2085889570552
+        ],
+        [
+          30.061349693251543,
+          108.28220858895705
+        ],
+        [
+          36.19631901840491,
+          77.91411042944785
+        ],
+        [
+          52.760736196319016,
+          56.13496932515337
+        ],
+        [
+          71.47239263803682,
+          41.41104294478527
+        ]
+      ],
+      "group_id": null,
+      "description": "Naranja,     Nombre científico: Citrus × sinensis.\n\nPropiedades:\n\nMuy rica en vitamina C, que fortalece el sistema inmunológico y promueve la salud de la piel.\nContiene fibra dietética, que mejora la digestión y ayuda a regular el azúcar en la sangre.\nBaja en calorías, aproximadamente 47 calorías por cada 100 gramos.\nFuente de antioxidantes como flavonoides y carotenoides, que ayudan a combatir el daño celular y pueden tener propiedades antiinflamatorias.\nAporta potasio, esencial para la función muscular y nerviosa.\nContiene pequeñas cantidades de vitaminas del complejo B, como tiamina (B1), folato (B9) y vitamina B6, importantes para el metabolismo y la formación de células.\nFuente de calcio y magnesio, importantes para la salud ósea y el metabolismo energético.\nContiene ácido cítrico, que puede ayudar a prevenir la formación de cálculos renales y mejorar la digestión.",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "N16.jpg",
+  "imageData": "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",
+  "imageHeight": 200,
+  "imageWidth": 200
+}

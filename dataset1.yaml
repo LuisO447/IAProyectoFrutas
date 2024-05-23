@@ -1,0 +1,15 @@
+train: C:\Users\orell\OneDrive\Desktop\ProyectoFrutasIA\pythonProject\Datos1\train\
+val: C:\Users\orell\OneDrive\Desktop\ProyectoFrutasIA\pythonProject\Datos1\val\
+nc: 1
+names: ["Limon Nombre científico: Citrus limon.
+
+Propiedades:
+
+Alta en vitamina C, potente antioxidante que fortalece el sistema inmunológico y favorece la salud de la piel.
+Contiene ácido cítrico, que puede ayudar a prevenir la formación de cálculos renales y mejorar la digestión.
+Bajo contenido calórico, alrededor de 29 calorías por cada 100 gramos.
+Rico en fibra dietética, beneficiosa para la salud digestiva y la regulación del azúcar en la sangre.
+Fuente de minerales como potasio y magnesio, importantes para la función muscular y nerviosa.
+Aporta pequeñas cantidades de vitaminas del complejo B, como ácido fólico y vitamina B6.
+Sus compuestos flavonoides pueden tener propiedades anticancerígenas y antiinflamatorias.
+Contiene ácido ascórbico, que puede ayudar a conservar la frescura de otras frutas y vegetales."]

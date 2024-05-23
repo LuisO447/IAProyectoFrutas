@@ -1,0 +1,116 @@
+{
+  "version": "5.4.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Banano,     Nombre científico: Musa spp.\n\nPropiedades:\n\nRica en potasio, esencial para la función muscular y nerviosa, y para mantener el equilibrio de líquidos en el cuerpo.\nContiene vitamina B6, que ayuda en la producción de neurotransmisores y en la metabolización de proteínas.\nFuente de vitamina C, que fortalece el sistema inmunológico y promueve la salud de la piel.\nAlta en carbohidratos, principalmente en forma de azúcares naturales como glucosa, fructosa y sacarosa, proporcionando energía rápida.\nAproximadamente 89 calorías por cada 100 gramos.\nContiene fibra dietética, que ayuda a la digestión y puede contribuir a la salud cardiovascular.\nAporta pequeñas cantidades de otros minerales como magnesio y manganeso.\nContiene antioxidantes como la dopamina y la catequina, que pueden ayudar a combatir el daño celular.",
+      "points": [
+        [
+          84.59502262443439,
+          51.52488687782806
+        ],
+        [
+          109.4819004524887,
+          60.12217194570136
+        ],
+        [
+          124.86651583710406,
+          75.50678733031674
+        ],
+        [
+          140.25113122171948,
+          103.10859728506787
+        ],
+        [
+          147.49095022624434,
+          130.25791855203622
+        ],
+        [
+          147.49095022624434,
+          162.3846153846154
+        ],
+        [
+          141.15610859728505,
+          197.67873303167423
+        ],
+        [
+          132.55882352941174,
+          209.44343891402715
+        ],
+        [
+          107.67194570135749,
+          245.6425339366516
+        ],
+        [
+          89.11990950226243,
+          261.4796380090498
+        ],
+        [
+          58.35067873303166,
+          272.33936651583707
+        ],
+        [
+          53.3733031674208,
+          266.9095022624434
+        ],
+        [
+          50.65837104072398,
+          258.3122171945701
+        ],
+        [
+          58.35067873303166,
+          241.57013574660635
+        ],
+        [
+          77.80769230769229,
+          216.23076923076925
+        ],
+        [
+          95.45475113122174,
+          186.3665158371041
+        ],
+        [
+          99.97963800904975,
+          159.66968325791856
+        ],
+        [
+          100.43212669683257,
+          132.97285067873304
+        ],
+        [
+          90.47737556561086,
+          101.75113122171946
+        ],
+        [
+          75.54524886877829,
+          76.86425339366515
+        ],
+        [
+          72.83031674208144,
+          64.6470588235294
+        ],
+        [
+          64.68552036199094,
+          50.16742081447964
+        ],
+        [
+          74.64027149321268,
+          49.26244343891403
+        ],
+        [
+          90.47737556561086,
+          52.88235294117648
+        ]
+      ],
+      "group_id": null,
+      "description": "Banano,     Nombre científico: Musa spp.\n\nPropiedades:\n\nRica en potasio, esencial para la función muscular y nerviosa, y para mantener el equilibrio de líquidos en el cuerpo.\nContiene vitamina B6, que ayuda en la producción de neurotransmisores y en la metabolización de proteínas.\nFuente de vitamina C, que fortalece el sistema inmunológico y promueve la salud de la piel.\nAlta en carbohidratos, principalmente en forma de azúcares naturales como glucosa, fructosa y sacarosa, proporcionando energía rápida.\nAproximadamente 89 calorías por cada 100 gramos.\nContiene fibra dietética, que ayuda a la digestión y puede contribuir a la salud cardiovascular.\nAporta pequeñas cantidades de otros minerales como magnesio y manganeso.\nContiene antioxidantes como la dopamina y la catequina, que pueden ayudar a combatir el daño celular.",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "B3.jpeg",
+  "imageData": "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",
+  "imageHeight": 294,
+  "imageWidth": 171
+}
